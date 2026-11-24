@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 
-//Demonstration ajout dans le code
+//Demostration ajout dans le code
 
 class Membre {
   int id;
