@@ -1,8 +1,6 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 
-//Demostration ajout dans le code
-
 class Membre {
   int id;
   String nom, postnom, prenom, lieu, date, parente;
